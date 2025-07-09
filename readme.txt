@@ -1,0 +1,1 @@
+I followed along with a tutorial to refresh my knowledge of CNNs and construction of deep neural networks. I used these skills to build a predictor that can take an image of a person and predict whether they are sad or happy. I used Keras to complete this project.
